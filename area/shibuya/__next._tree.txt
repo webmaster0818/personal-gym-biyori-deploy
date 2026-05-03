@@ -7,4 +7,4 @@
 :HL["/ss-beyond.jpg","image"]
 :HL["/ss-exercise-coach.jpg","image"]
 :HL["/ss-miyazaki-gym.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"shibuya","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"JM2I6OPW-NSfH66Jr0B1S"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"shibuya","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XW63C2KugswpFsC2Zqjjl"}
