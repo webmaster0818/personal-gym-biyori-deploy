@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
-:HL["/_next/static/chunks/04j28ru74o659.css","style"]
+:HL["/_next/static/chunks/051imml221nqb.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ss-chicken-gym.jpg","image"]
 :HL["/ss-rizap.jpg","image"]
@@ -7,4 +7,4 @@
 :HL["/ss-247workout.jpg","image"]
 :HL["/ss-exercise-coach.jpg","image"]
 :HL["/ss-undeux.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"umeda","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"jzKWRmnLI9WBbS1I13hup"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"umeda","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"LPwalNLP5BuFCkTO0BQ-8"}
