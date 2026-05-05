@@ -1,7 +1,7 @@
 :HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
-:HL["/_next/static/chunks/04ou1i1tbi7id.css","style"]
+:HL["/_next/static/chunks/018_1b3ur.1.x.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ss-rizap.jpg","image"]
 :HL["https://www20.a8.net/svt/bgt?aid=250920793872&wid=001&eno=01&mid=s00000015695001058000&mc=1","image"]
 :HL["https://www10.a8.net/0.gif?a8mat=45E3Q1+EF60AA+3D3Q+6ARKX","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"rizap","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"BgyJAOVujQk3uX369ftsn"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"rizap","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"jS2ZRpcAwWggy063DrWvh"}
