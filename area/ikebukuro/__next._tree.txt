@@ -7,4 +7,4 @@
 :HL["/ss-beyond.jpg","image"]
 :HL["/ss-exercise-coach.jpg","image"]
 :HL["/ss-outline.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"ikebukuro","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"qlHNZhg0-nwv8fB8-BPWG"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"area","param":null,"prefetchHints":0,"slots":{"children":{"name":"ikebukuro","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"2YLnWFzmNT5galD1phYpz"}
