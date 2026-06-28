@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
-:HL["/_next/static/chunks/17gsd~9lyeyp0.css","style"]
+:HL["/_next/static/chunks/00lo-qfcz3esj.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"laststyle","param":null,"prefetchHints":0,"slots":{"children":{"name":"shinjuku","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"2CRWtvS3qnD8Q3vq1qnRV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"review","param":null,"prefetchHints":0,"slots":{"children":{"name":"laststyle","param":null,"prefetchHints":0,"slots":{"children":{"name":"shinjuku","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"dHNw9A0p2hSTievujxA7-"}
