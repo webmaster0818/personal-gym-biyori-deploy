@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
+:HL["/_next/static/chunks/0hv4j4s1f-m23.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gym","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E9%81%8B%E5%8B%95%E5%88%9D%E5%BF%83%E8%80%85%E2%9A%AB%EF%B8%8E%E3%81%8A%E5%AD%90%E6%A7%98%E9%80%A3%E3%82%8C%E2%9A%AB%EF%B8%8E%E5%A4%A7%E6%AD%93%E8%BF%8E%E3%81%AE%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B8%E3%83%A0-%E5%A5%B3%E6%80%A7%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC-%E6%B5%A6%E5%92%8C-1529","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"m1XH_YJYEMOeDZ43MSNcK"}
