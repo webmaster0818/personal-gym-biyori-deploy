@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
 :HL["/_next/static/chunks/0hv4j4s1f-m23.css","style"]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gym","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E3%83%93%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E6%AD%A6%E8%94%B5%E6%B5%A6%E5%92%8C-6df3","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"mgbCFVnuHMEPeNcjepx4r"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gym","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E3%83%93%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3%E6%AD%A6%E8%94%B5%E6%B5%A6%E5%92%8C-6df3","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"aWDiOG4TCxDFrbDDIUyfn"}

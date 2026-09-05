@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0ee8u7yty35qa.css","style"]
+:HL["/_next/static/chunks/0hv4j4s1f-m23.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gym","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"%E9%A7%85%E5%89%8D%E7%AD%8B%E8%82%89%E7%95%99%E5%AD%A6GO-%E5%B2%90%E9%98%9C%E5%B2%90%E5%8D%97%E5%BA%97-406e","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"aWDiOG4TCxDFrbDDIUyfn"}
